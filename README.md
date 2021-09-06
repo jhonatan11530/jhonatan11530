@@ -31,6 +31,12 @@ mobile, web
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+# My skills Database
+![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SqlServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Oracle]()
+
 # Contact me 
 [![Facebook](https://img.shields.io/badge/Facebook-@jhonatan%20fernandez-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/jhonatan.fernandez.munos)
 [![Instagram](https://img.shields.io/badge/Instagram-@jhonatan%20fernandez-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.instagram.com/jhonatan.fernandez/?hl=es)
