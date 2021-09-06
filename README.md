@@ -22,7 +22,8 @@ mobile, web
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Asp.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 # Contact me 
 [![Facebook](https://img.shields.io/badge/Facebook-@jhonatan%20fernandez-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/jhonatan.fernandez.munos)
 [![Instagram](https://img.shields.io/badge/Instagram-@jhonatan%20fernandez-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.instagram.com/jhonatan.fernandez/?hl=es)
