@@ -1,7 +1,7 @@
 # Biography
 
 Hi, my name is Jhonatan Fernandez. I'm 22 years old. I'm from CALI-COLOMBIA.
-I am a developer I have knowledge of programming languages Java, C #, Asp.NET, Javascript, Jquery I handle framework like laravel, angular
+I am a developer I have knowledge of programming languages Java, C #, Asp.NET,Other I handle framework like laravel, angular
 I am a responsible person, with aspirations, I have a facility for
 interact with people, I am a very honest and punctual person
 I learn quickly and I am interested in properly complying with
