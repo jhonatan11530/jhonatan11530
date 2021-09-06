@@ -22,5 +22,5 @@ mobile, web
 ![alt text](http://url/to/img.png)
 # Contact me 
 [![Facebook](https://img.shields.io/badge/Facebook-@jhonatan%20fernandez-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/jhonatan.fernandez.munos)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/ukikuapp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatanfernandezmu%C3%B1oz/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573114360830)
