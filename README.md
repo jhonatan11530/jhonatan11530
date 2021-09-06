@@ -8,14 +8,18 @@ I learn quickly and I am interested in properly complying with
 a lot of motivation and responsibility in the different activities that I do, I
 I consider myself a curious person to learn new things
 
-# professional profile
+# Professional profile
 Technologist in analysis and development of information systems,
 working as a computer systems programmer analyst for
 cross-platform database developers, desktop applications,
 mobile, web 
 
-# my skills
-
-# Contact me:
+# My skills
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
+# Contact me
 
 asdasd
