@@ -21,4 +21,6 @@ mobile, web
 ![alt text](http://url/to/img.png)
 ![alt text](http://url/to/img.png)
 # Contact me
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+[![Facebook](https://img.shields.io/badge/Facebook-@ukikuapp-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/ukikuapp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/ukikuapp)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)(mailto:jordyamc@hotmail.com)
