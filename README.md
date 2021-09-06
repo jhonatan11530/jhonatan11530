@@ -15,11 +15,14 @@ cross-platform database developers, desktop applications,
 mobile, web 
 
 # My skills
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![Html](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Java](http://url/to/img.png)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Jquery](http://url/to/img.png)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 # Contact me 
 [![Facebook](https://img.shields.io/badge/Facebook-@jhonatan%20fernandez-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/jhonatan.fernandez.munos)
 [![Instagram](https://img.shields.io/badge/Instagram-@jhonatan%20fernandez-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.instagram.com/jhonatan.fernandez/?hl=es)
