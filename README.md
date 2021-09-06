@@ -15,7 +15,7 @@ cross-platform database developers, desktop applications,
 mobile, web 
 
 # My Portfolio
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+[go](http://stackoverflow.com){:target="_blank"}
 https://jhonatan11530.github.io/
 # My skills
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
